@@ -1,0 +1,32 @@
+.nutnhan{
+    background-color: bisque;
+    border-radius: 10px;
+    display: inline-block;
+}
+.khung{
+    border: brown 2px solid;
+    padding: 10px 15px;
+    display: inline-block;
+    margin: 5px;
+}
+.hienthi{ 
+    display: inline-block;
+}
+
+.button-accept {
+    background-color: #808000;
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+    color: aliceblue;
+}
+footer {
+    margin-top: 50px;
+    text-align: center;
+    background-color: blanchedalmond;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+content {
+    align-items: center;
+}
